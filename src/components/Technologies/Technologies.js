@@ -42,6 +42,24 @@ const Technologies = () =>  (
           </ListParagraph>
         </ListContainer>
       </ListItem>
+      <ListItem>
+        {/* <DiZend size="3rem" /> */}
+        <ListContainer>
+          <ListTitle>Programming Languages</ListTitle>
+          <ListParagraph>
+            C++, Python, Java, SQL
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        {/* <DiZend size="3rem" /> */}
+        <ListContainer>
+          <ListTitle>Databases</ListTitle>
+          <ListParagraph>
+            MYSQL, Oracle, MongoDB
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
     </List>
   </Section>
 );
